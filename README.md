@@ -1,120 +1,328 @@
-<h1 align="center">Hi there, I'm Sunil Mohan 👋</h1>
+<div align="center">
 
-<p align="center">
-  <b>Technical Leader @Cisco</b> &nbsp;•&nbsp; Cross-Functional Innovator &nbsp;•&nbsp; AI &amp; Data Solutions Enthusiast &nbsp;•&nbsp; Automation
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58A6FF&height=200&section=header&text=Sunil%20Mohan&fontSize=44&fontColor=ffffff&fontAlignY=35&desc=Technical%20Leader%20%40%20Cisco%20%7C%20AI%2FML%20Engineer%20%7C%20RAG%20%26%20Automation%20Architect&descSize=15&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%" />
 
-<p align="center">
-  <i>Delivering Scalable, Secure, High-Impact Systems</i>
-</p>
+<br/>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/sunil-mohan13">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/SunilMohan13">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="mailto:sunilmkumar25@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=560&height=30&lines=12%2B+Years+%7C+Cisco+%7C+Incedo+%7C+Infosys;Intelligent+Agents+%7C+RAG+%7C+Knowledge+Graphs;Scalable+%7C+Secure+%7C+High-Impact+Systems" alt="Typing SVG" />
 
----
+<br/><br/>
 
-## 🧑‍💻 About Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sunil-mohan13)&nbsp;&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SunilMohan13)&nbsp;&nbsp;
+[![Email](https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sunilmkumar25@gmail.com)
 
-Technical Leader with deep expertise across platforms, networking, and emerging AI technologies. I have led cross-functional engineering teams to design and deliver scalable, secure, and high-impact solutions in highly regulated industries. My background spans **platform engineering, product tooling, distributed systems, and advanced AI/ML applications**.
+<br/>
 
-I've driven multiple AI-powered initiatives — building intelligent agents for network monitoring and troubleshooting, developing complex **RAG architectures backed by knowledge graphs**, and creating automation frameworks that elevate productivity and accelerate insight generation. I thrive at the intersection of technology, strategy, and innovation, translating complex technical challenges into practical, forward-looking solutions.
+![Experience](https://img.shields.io/badge/Experience-12%2B%20Years-00C853?style=flat-square)&nbsp;
+![Projects](https://img.shields.io/badge/Projects-20%2B%20Delivered-2196F3?style=flat-square)&nbsp;
+![Education](https://img.shields.io/badge/M.Tech-Data%20Science%20%C2%B7%20BITS%20Pilani-9C27B0?style=flat-square)
 
-Passionate about continuous improvement, technical excellence, and high-performing team cultures, I enjoy exploring new technologies, architecting next-generation tools and products, and enabling organizations to scale with clarity and confidence.
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=SunilMohan13&label=Profile%20Views&color=58A6FF&style=flat-square" alt="Profile views" />
+
+</div>
 
 ---
 
-## 🚀 What I Focus On
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> &nbsp; About Me
 
-- 🤖 **Intelligent Agents** — AI-driven network monitoring & troubleshooting
-- 🧠 **RAG Architectures** — retrieval-augmented generation backed by knowledge graphs
-- ⚙️ **Automation Frameworks** — boosting productivity and accelerating insight generation
-- 🏗️ **Scalable & Secure Systems** — high-impact platforms for highly regulated industries
-- 👥 **Technical Leadership** — building high-performing, cross-functional engineering teams
+Technical Leader with deep expertise across **platforms, networking, and emerging AI technologies**. I lead cross-functional engineering teams to design and deliver **scalable, secure, high-impact solutions** in highly regulated industries. My background spans platform engineering, product tooling, distributed systems, and advanced AI/ML applications.
+
+- 🤖 Building **intelligent agents** for network monitoring & troubleshooting
+- 🧠 Designing complex **RAG architectures backed by knowledge graphs**
+- ⚙️ Creating **automation frameworks** that accelerate productivity and insight
+- 🏗️ Architecting **next-generation tools & products** at enterprise scale
+- 🎓 **M.Tech in Data Science** — BITS Pilani (2022 – 2024)
 
 ---
 
-## 🛠️ Tech Stack
+### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> &nbsp; What I Focus On
 
-**Languages**
+<div align="center">
+
+| 🤖 Intelligent Agents | 🧠 RAG + Knowledge Graphs | ⚙️ Automation Frameworks |
+|:--:|:--:|:--:|
+| AI-driven network monitoring & self-healing troubleshooting | Retrieval-augmented generation grounded in structured knowledge | Productivity tooling that turns data into actionable insight |
+| **🏗️ Scalable & Secure Systems** | **👥 Technical Leadership** | **📊 Data & ML Engineering** |
+| High-impact platforms for regulated industries | Growing high-performing, cross-functional teams | Pipelines, predictive models & distributed data systems |
+
+</div>
+
+---
+
+### <img src="https://media.giphy.com/media/W5eSkTgFhLK0Gr7Ytj/giphy.gif" width="28"> &nbsp; Tech Stack
+
+<div align="center">
+<br/>
+
+**Languages** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Web & Frameworks** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **AI / ML & Data** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Cloud, DevOps & Networking**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-
-**Web & Frameworks**
-
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-
-**AI / ML & Data**
-
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-6E56CF?style=flat-square&logo=databricks&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-6E56CF?style=flat-square&logo=openai&logoColor=white)
 ![Knowledge Graphs](https://img.shields.io/badge/Knowledge%20Graphs-0088CC?style=flat-square&logo=neo4j&logoColor=white)
 ![NLP](https://img.shields.io/badge/NLP-FF9900?style=flat-square&logo=openai&logoColor=white)
-
-**Cloud, DevOps & Networking**
-
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Cisco](https://img.shields.io/badge/Networking-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
 
----
-
-## 💼 Experience
-
-**Cisco** — _Software Consulting Engineering Technical Leader_ · Full-time
-🗓️ Mar 2021 – Present · 📍 Bengaluru, India · On-site
-> Leading design and delivery of scalable, secure, high-impact systems. MEAN Stack, Python & more.
-
-**Incedo Inc.** — _Software Consultant_ · Full-time
-🗓️ Mar 2019 – Mar 2021 · 📍 Bengaluru, India · On-site
-> MEAN Stack, Python & more.
-
-**Infosys** — _Technology Analyst_ · Full-time
-🗓️ Feb 2017 – Mar 2019 · 📍 Bangalore, India
-> Designed and developed tools for performance testing of WiFi device modules for the AT&T client, and built the performance-testing UI using the Django web framework.
-
-**Infosys** — _Software Engineer_ · Full-time
-🗓️ Mar 2014 – Mar 2017 · 📍 Bengaluru, India · On-site
-> MEAN Stack and Python.
+<br/>
+</div>
 
 ---
 
-## 🎓 Education
+### <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"> &nbsp; Career Timeline
 
-**Birla Institute of Technology and Science, Pilani (BITS Pilani)**
-_Master of Technology (M.Tech), Data Science_ · Aug 2022 – Oct 2024
-> Specialization in machine learning, deep learning, knowledge graphs, natural language processing, and big data analytics. Hands-on expertise in AI model development, distributed data systems, data engineering pipelines, RAG models, and advanced predictive frameworks.
+<table>
+<tr>
+<td align="center" width="150">
+<br/>
+<img src="https://img.shields.io/badge/CISCO-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+<br/>
+<sub><strong>Mar 2021 — Present</strong></sub>
+<br/><br/>
+</td>
+<td>
 
-**Rajeev Institute of Technology**
-_Bachelor's Degree, Electronics & Communication Engineering_ · 2010 – 2013 · Grade: 73.73%
-> **Project:** Analog VLSI Implementation of Artificial Neural Network (180nm CMOS VLSI, CADENCE Virtuoso). A feed-forward network with back-propagation learning, performing signal amplification and frequency multiplication. **Team Lead** (team of 4). Selected for the **CADENCE India Design Contest 2013**, approved by KSCST, Bangalore, and shortlisted for further evaluation.
+**Software Consulting Engineering — Technical Leader** at **Cisco**
+
+- Lead design & delivery of **scalable, secure, high-impact** systems
+- Built **intelligent agents** for network monitoring & troubleshooting
+- Architected **RAG platforms backed by knowledge graphs**
+- Delivered **automation frameworks** boosting team productivity
+- Stack: **MEAN**, **Python**, AI/ML & distributed systems
+
+</td>
+</tr>
+<tr>
+<td align="center" width="150">
+<br/>
+<img src="https://img.shields.io/badge/INCEDO-6C63FF?style=for-the-badge" />
+<br/>
+<sub><strong>Mar 2019 — Mar 2021</strong></sub>
+<br/><br/>
+</td>
+<td>
+
+**Software Consultant** at **Incedo Inc.**
+
+- Delivered full-stack solutions across the **MEAN stack & Python**
+- Built and integrated enterprise-grade web services
+- Partnered with cross-functional teams on client deliverables
+
+</td>
+</tr>
+<tr>
+<td align="center" width="150">
+<br/>
+<img src="https://img.shields.io/badge/INFOSYS-007CC3?style=for-the-badge&logo=infosys&logoColor=white" />
+<br/>
+<sub><strong>Feb 2017 — Mar 2019</strong></sub>
+<br/><br/>
+</td>
+<td>
+
+**Technology Analyst** at **Infosys**
+
+- Designed tools for **WiFi device performance testing** (AT&T client)
+- Built the performance-testing UI using the **Django** framework
+- Improved test coverage and automation of device modules
+
+</td>
+</tr>
+<tr>
+<td align="center" width="150">
+<br/>
+<img src="https://img.shields.io/badge/INFOSYS-007CC3?style=for-the-badge&logo=infosys&logoColor=white" />
+<br/>
+<sub><strong>Mar 2014 — Mar 2017</strong></sub>
+<br/><br/>
+</td>
+<td>
+
+**Software Engineer** at **Infosys**
+
+- Developed applications across the **MEAN stack & Python**
+- Delivered features for enterprise web platforms
+- Foundation years in scalable full-stack engineering
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📊 GitHub Stats
+### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="26"> &nbsp; Featured Projects
 
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">Intelligent Network Agents</h3>
+<p align="center"><strong>Cisco</strong></p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SunilMohan13&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Sunil's GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SunilMohan13&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/ML-102230?style=flat-square&logo=tensorflow&logoColor=white" />
 </p>
-
+<p align="center">AI-driven agents that autonomously monitor networks, detect anomalies, and accelerate troubleshooting.</p>
 <p align="center">
-  <i>Let's build scalable, secure, and intelligent systems together. 🚀</i>
+<img src="https://img.shields.io/badge/AI_Agents-00C853?style=flat-square" />
+<img src="https://img.shields.io/badge/Faster_Resolution-2196F3?style=flat-square" />
 </p>
+</td>
+<td width="50%">
+<h3 align="center">RAG + Knowledge Graph Platform</h3>
+<p align="center"><strong>Cisco</strong></p>
+<p align="center">
+<img src="https://img.shields.io/badge/RAG-6E56CF?style=flat-square&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Neo4j-0088CC?style=flat-square&logo=neo4j&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+</p>
+<p align="center">Retrieval-augmented generation grounded in structured knowledge graphs for accurate, context-rich answers.</p>
+<p align="center">
+<img src="https://img.shields.io/badge/Context_Aware-00C853?style=flat-square" />
+<img src="https://img.shields.io/badge/Knowledge_Grounded-2196F3?style=flat-square" />
+</p>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<h3 align="center">Automation Framework</h3>
+<p align="center"><strong>Cisco</strong></p>
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+</p>
+<p align="center">Reusable automation tooling that boosts productivity and accelerates insight generation across teams.</p>
+<p align="center">
+<img src="https://img.shields.io/badge/Productivity_Boost-00C853?style=flat-square" />
+<img src="https://img.shields.io/badge/Scalable-2196F3?style=flat-square" />
+</p>
+</td>
+<td width="50%">
+<h3 align="center">WiFi Performance-Testing Suite</h3>
+<p align="center"><strong>Infosys · AT&T</strong></p>
+<p align="center">
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Automation-FF6F00?style=flat-square" />
+</p>
+<p align="center">Tooling and a Django-based UI for automated performance testing of WiFi device modules.</p>
+<p align="center">
+<img src="https://img.shields.io/badge/Enterprise-00C853?style=flat-square" />
+<img src="https://img.shields.io/badge/Test_Automation-2196F3?style=flat-square" />
+</p>
+</td>
+</tr>
+</table>
+
+---
+
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="26"> &nbsp; Education
+
+<table>
+<tr>
+<td align="center" width="150">
+<br/>
+<img src="https://img.shields.io/badge/BITS%20Pilani-D71920?style=for-the-badge&logoColor=white" />
+<br/>
+<sub><strong>Aug 2022 — Oct 2024</strong></sub>
+<br/><br/>
+</td>
+<td>
+
+**M.Tech, Data Science** — _Birla Institute of Technology and Science, Pilani_
+
+Specialization in machine learning, deep learning, knowledge graphs, NLP, and big data analytics. Hands-on with AI model development, distributed data systems, data engineering pipelines, RAG models, and predictive frameworks.
+
+</td>
+</tr>
+<tr>
+<td align="center" width="150">
+<br/>
+<img src="https://img.shields.io/badge/B.E.%20ECE-1BA0D7?style=for-the-badge" />
+<br/>
+<sub><strong>2010 — 2013 · 73.73%</strong></sub>
+<br/><br/>
+</td>
+<td>
+
+**B.E., Electronics & Communication Engineering** — _Rajeev Institute of Technology_
+
+**Project:** Analog VLSI implementation of an Artificial Neural Network (180nm CMOS, CADENCE Virtuoso) — a feed-forward network with back-propagation for signal amplification & frequency multiplication. **Team Lead** (team of 4). Selected for the **CADENCE India Design Contest 2013**, approved by KSCST Bangalore.
+
+</td>
+</tr>
+</table>
+
+---
+
+### <img src="https://media.giphy.com/media/kBZBlLVlfECvOQR2N6/giphy.gif" width="28"> &nbsp; Awards & Recognition
+
+> _Editable placeholders — replace with your exact award titles, years, and issuers._
+
+<div align="center">
+
+| &nbsp; | Year | Recognition | Issuer |
+|:------:|:----:|:------------|:-------|
+| :trophy: | **20XX** | _Excellence in Innovation_ | Cisco |
+| :star2: | **20XX** | _Outstanding Contribution_ | Cisco |
+| :medal_sports: | **20XX** | _Technical Leadership_ | Incedo / Infosys |
+| :1st_place_medal: | **2013** | CADENCE India Design Contest — Selected | KSCST, Bangalore |
+
+</div>
+
+---
+
+### <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="28"> &nbsp; GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=SunilMohan13&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub streak" />
+
+<br/><br/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=SunilMohan13&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF" alt="GitHub stats" />
+&nbsp;
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SunilMohan13&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF" alt="Top languages" />
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=SunilMohan13&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=6" alt="Trophies" width="100%" />
+
+</div>
+
+---
+
+<div align="center">
+
+### <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="26"> &nbsp; Dev Philosophy
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev quote" />
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58A6FF&height=100&section=footer" width="100%" />
+
+<div align="center">
+<sub><strong>Bengaluru, India</strong> &nbsp;·&nbsp; Open to collaboration &nbsp;·&nbsp; <a href="mailto:sunilmkumar25@gmail.com">sunilmkumar25@gmail.com</a> &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/sunil-mohan13">LinkedIn</a></sub>
+
+<br/><br/>
+
+<i>Let's build scalable, secure, and intelligent systems together. 🚀</i>
+</div>
