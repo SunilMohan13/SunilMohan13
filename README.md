@@ -26,19 +26,36 @@
 
 ---
 
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> &nbsp; About Me
+### 🧑‍💻 &nbsp; About Me
 
 Technical Leader with deep expertise across **platforms, networking, and emerging AI technologies**. I lead cross-functional engineering teams to design and deliver **scalable, secure, high-impact solutions** in highly regulated industries. My background spans platform engineering, product tooling, distributed systems, and advanced AI/ML applications.
 
-- 🤖 Building **intelligent agents** for network monitoring & troubleshooting
-- 🧠 Designing complex **RAG architectures backed by knowledge graphs**
-- ⚙️ Creating **automation frameworks** that accelerate productivity and insight
-- 🏗️ Architecting **next-generation tools & products** at enterprise scale
-- 🎓 **M.Tech in Data Science** — BITS Pilani (2022 – 2024)
+<table>
+<tr>
+<td><img src="https://img.shields.io/badge/%20-161b22?style=flat-square&logo=openai&logoColor=74AA9C" height="26" /></td>
+<td>Building <strong>intelligent agents</strong> for network monitoring &amp; troubleshooting</td>
+</tr>
+<tr>
+<td><img src="https://img.shields.io/badge/%20-161b22?style=flat-square&logo=neo4j&logoColor=4581C3" height="26" /></td>
+<td>Designing complex <strong>RAG architectures</strong> backed by knowledge graphs</td>
+</tr>
+<tr>
+<td><img src="https://img.shields.io/badge/%20-161b22?style=flat-square&logo=ansible&logoColor=EE0000" height="26" /></td>
+<td>Creating <strong>automation frameworks</strong> that accelerate productivity and insight</td>
+</tr>
+<tr>
+<td><img src="https://img.shields.io/badge/%20-161b22?style=flat-square&logo=databricks&logoColor=FF3621" height="26" /></td>
+<td>Architecting <strong>next-generation tools &amp; products</strong> at enterprise scale</td>
+</tr>
+<tr>
+<td><img src="https://img.shields.io/badge/%20-161b22?style=flat-square&logo=googlescholar&logoColor=4285F4" height="26" /></td>
+<td><strong>M.Tech in Data Science</strong> — BITS Pilani (2022 – 2024)</td>
+</tr>
+</table>
 
 ---
 
-### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> &nbsp; What I Focus On
+### 🎯 &nbsp; What I Focus On
 
 <div align="center">
 
@@ -52,7 +69,7 @@ Technical Leader with deep expertise across **platforms, networking, and emergin
 
 ---
 
-### <img src="https://media.giphy.com/media/W5eSkTgFhLK0Gr7Ytj/giphy.gif" width="28"> &nbsp; Tech Stack
+### 🛠️ &nbsp; Tech Stack
 
 <div align="center">
 <br/>
@@ -83,7 +100,7 @@ Technical Leader with deep expertise across **platforms, networking, and emergin
 
 ---
 
-### <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"> &nbsp; Career Timeline
+### 💼 &nbsp; Career Timeline
 
 <table>
 <tr>
@@ -164,7 +181,7 @@ Technical Leader with deep expertise across **platforms, networking, and emergin
 
 ---
 
-### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="26"> &nbsp; Featured Projects
+### 🌟 &nbsp; Featured Projects
 
 <table>
 <tr>
@@ -231,7 +248,7 @@ Technical Leader with deep expertise across **platforms, networking, and emergin
 
 ---
 
-### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="26"> &nbsp; Education
+### 🎓 &nbsp; Education
 
 <table>
 <tr>
@@ -270,7 +287,7 @@ Specialization in machine learning, deep learning, knowledge graphs, NLP, and bi
 
 ---
 
-### <img src="https://media.giphy.com/media/kBZBlLVlfECvOQR2N6/giphy.gif" width="28"> &nbsp; Awards & Recognition
+### 🏆 &nbsp; Awards & Recognition
 
 > _Editable placeholders — replace with your exact award titles, years, and issuers._
 
@@ -287,35 +304,25 @@ Specialization in machine learning, deep learning, knowledge graphs, NLP, and bi
 
 ---
 
-### <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="28"> &nbsp; GitHub Activity
+### 📊 &nbsp; GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=SunilMohan13&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com?user=SunilMohan13&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub streak" />
 
 <br/><br/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=SunilMohan13&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=SunilMohan13&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub stats" />
 &nbsp;
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SunilMohan13&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF" alt="Top languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SunilMohan13&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" />
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=SunilMohan13&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=6" alt="Trophies" width="100%" />
+<img src="https://github-profile-trophy.vercel.app/?username=SunilMohan13&theme=discord&no-frame=true&column=7&margin-w=6&margin-h=6" alt="Trophies" width="100%" />
 
 </div>
 
 ---
-
-<div align="center">
-
-### <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="26"> &nbsp; Dev Philosophy
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev quote" />
-
-</div>
-
-<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58A6FF&height=100&section=footer" width="100%" />
 
