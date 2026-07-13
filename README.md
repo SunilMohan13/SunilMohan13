@@ -320,6 +320,36 @@ Specialization in machine learning, deep learning, knowledge graphs, NLP, and bi
 
 <img src="https://github-profile-trophy.vercel.app/?username=SunilMohan13&theme=discord&no-frame=true&column=7&margin-w=6&margin-h=6" alt="Trophies" width="100%" />
 
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SunilMohan13&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff&area=true&hide_border=true" width="100%" alt="Contribution activity graph" />
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/SunilMohan13/SunilMohan13/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution snake animation" />
+
+</div>
+
+---
+
+### ⏱️ &nbsp; Weekly Coding Breakdown
+
+<!--START_SECTION:waka-->
+_Coding activity will appear here automatically once WakaTime is connected._
+<!--END_SECTION:waka-->
+
+---
+
+### 🎧 &nbsp; Now Playing
+
+<div align="center">
+
+<a href="https://open.spotify.com/user/YOUR_UID">
+<img src="https://spotify-github-profile.kittinan.workers.dev/api/view?uid=YOUR_UID&cover_image=true&theme=default&show_offline=true&bar_color=58A6FF&bar_color_cover=true" alt="Spotify now playing" />
+</a>
+
+<sub><i>Replace <code>YOUR_UID</code> after connecting Spotify (see setup steps).</i></sub>
+
 </div>
 
 ---
